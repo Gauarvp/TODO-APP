@@ -1,0 +1,4 @@
+Flask
+Graphene
+stripe
+keycloak
